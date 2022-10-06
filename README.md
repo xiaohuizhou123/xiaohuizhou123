@@ -1,7 +1,7 @@
 - 👋 Hi, I’m xiaohui zhou
-- 👀 I’m interested in air-sea interaction, upper ocean turbulence, mesoscale eddy dynamics and modeling development
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on numerical model development
+- 👀 I’m interested in air-sea interaction, upper ocean turbulence, mesoscale eddy dynamics , internal wave dynamics and modeling development
+- 🌱 I’m currently investigating air-sea gas flux
+- 💞 I'm looking for any possible collaboration on investigating ocean dynamics with observation/numerical simulations.
 - 📫 How to reach me xz8605@princeton.edu
 
 <!---
